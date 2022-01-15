@@ -8,5 +8,19 @@
 </head>
 <body>
     <h1>Lasanga</h1>
-</body>
+
+    <img src="../pictures/lasanga" alt="Lasanga">
+    
+    <ul>
+        <li>Cheese Filling</li>
+        <li>Meat Sauce</li>
+        <li>Layer</li>
+    </ul>
+
+    <ol>
+        <li>Meat</li>
+        <li>cheese</li>
+        <li>lasanga</li>
+    </ol>
+</body> 
 </html>
